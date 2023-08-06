@@ -1,0 +1,8 @@
+2023-08-06 06:28:18.629858 - Initialized conversion of CBT683
+2023-08-06 06:28:18.666440 - Received CBT.V505.FILE683.PDS from FILE683.XMI 
+2023-08-06 06:28:18.668726 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE683.PDS, moved to PDS/$$$#DATE
+2023-08-06 06:28:18.669781 - Found $IXTOOL0.txt (text/plain) in CBT.V505.FILE683.PDS, moved to PDS/$IXTOOL0
+2023-08-06 06:28:18.670656 - Found $IXTOOL1.txt (text/plain) in CBT.V505.FILE683.PDS, moved to PDS/$IXTOOL1
+2023-08-06 06:28:18.671844 - Found $IXTOOL2.txt (text/plain) in CBT.V505.FILE683.PDS, moved to PDS/$IXTOOL2
+2023-08-06 06:28:18.672742 - Found $IXTOOL3.txt (text/plain) in CBT.V505.FILE683.PDS, moved to PDS/$IXTOOL3
+2023-08-06 06:28:18.673727 - Found @FILE683.txt (text/plain) in CBT.V505.FILE683.PDS, moved to PDS/@FILE683
